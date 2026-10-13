@@ -1,4 +1,5 @@
 theme: minima
+title: "KnolStack"
 header_pages: []
 # Disable automatic page insertion in the header navigation
 show_excerpts: true
