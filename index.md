@@ -1,6 +1,4 @@
 ---
-title: Welcome to my blog
+title: Home
 ---
-Adding new text
-This is a sample blog
 
