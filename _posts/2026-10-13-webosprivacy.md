@@ -34,4 +34,4 @@ We may update our Privacy Policy from time to time. Any changes will be reflecte
 6. Contact Us
 If you have any questions or suggestions about this Privacy Policy, please feel free to reach out at:
 
-Developer Email: your developer email
+Developer Email: admin@knolstack.com
