@@ -1,1 +1,11 @@
 theme: minima
+# Disable automatic page insertion in the header navigation
+show_excerpts: true
+
+# Explicitly define header pages if you want to control what shows up, 
+# or leave it empty/exclude files you don't want to display:
+exclude:
+  - webosprivacy.html
+  - pp.md
+  - tos.md
+  - README.md
